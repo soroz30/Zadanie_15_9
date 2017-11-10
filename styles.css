@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	background: #2B3137;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+label {
+	margin: 0 10px 0 0;
+}
+
+input {
+	background: #404448;
+	border: none;
+	color: #fff;
+	padding: 5px;
+}
+
+a {
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+}
+
+form + div div {
+	display: inline-block;
+	margin: 50px 50px 0;
+	width: 100px;
+}
